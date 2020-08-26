@@ -1,0 +1,144 @@
+
+
+ .top-heading{
+   margin:50px auto 0 auto;
+   font-size:5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #66bfbf;
+
+ }
+
+ h3{
+font-family: 'Balsamiq Sans', cursive;
+   color: #11999E;
+ }
+
+ body{
+
+   text-align: center;
+ margin: 0;
+ color: #40514E;
+
+ }
+ .top-container{
+   background-color: #cffffe;
+   position: relative;
+   padding-top: 100px;
+ }
+.top-cloud{
+ position:absolute;
+ right: 300px;
+ top:40px;
+
+}
+
+.buttom-cloud{
+  position: absolute;
+  left:250px;
+  bottom: 300px;
+
+}
+.middle-container{
+
+
+}
+.bottom-container{
+
+}
+.computer{
+  border-radius: 50%;
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+.engineer{
+  border-radius: 50%;
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+.deepakimage{
+  border-radius: 100%;
+  height:200px;
+  width:200px;
+  padding: 10px;
+  margin-top: 50px;
+}
+h2{
+ font-family: 'Noto Sans TC', sans-serif;
+  color:#66bfbf;
+  font-weight: lighter;
+
+}
+.profile{
+  width: 30%;
+  margin: auto;
+
+
+}
+.skill-row{
+  width: 50%;
+  position:relative;
+ margin:200px auto 100px auto;
+ text-align: left;
+
+}
+.deepak-intro{
+  color:#40514E;
+}
+p{
+   font-family: 'Balsamiq Sans', cursive;
+  font-style: normal;
+   line-height:2;
+}
+hr{
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+border: dotted #EAF6F6 6px ;
+ border-bottom: none;
+color:#EAF6F6;
+width:3%;
+
+}
+a{
+  color: #11999E;
+  font-family: 'Noto Sans TC', sans-serif;
+  margin: 20px 10px;
+  text-decoration: none;
+}
+a:hover{
+  color:#eaf6f6;
+}
+ .contact-message{
+   width:40%;
+   margin:40px  auto 60px auto;
+ }
+ .testbutton {
+  font-family: arial;
+  color: #6A6A6A !important;
+  font-size: 14px;
+  text-shadow: 1px 1px 1px #7CACDE;
+  box-shadow: 1px 1px 1px #BEE2F9;
+  padding: 10px 25px;
+  border-radius: 10px;
+  border: 2px solid #3866A3;
+  background: #54EE43;
+  background: linear-gradient(to top, #54EE43, #95CFA1);
+
+}
+.testbutton:hover {
+  color: #14396A !important;
+  background: #A56ECF;
+  background: linear-gradient(to top, #A56ECF, #EED4E3);
+}
+.bottom-container{
+  margin-top: 100px;
+  background-color:#66bfbf;
+  padding: 50px 0 20px 0;
+}
+.copy-right{
+  color: #Eaf6f6
+ font-size: 0.75rem;
+ padding-top: 30px;
+}
